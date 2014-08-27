@@ -4,7 +4,7 @@
  - 1.3. [hadoop集群安装](01.3.md)
  - 1.4. [Hadoop命令手册](01.4.md)
  - 1.5. [文件系统命令](01.5.md)
- - 1.6 [[Hadoop协议](01.6.md)
+ - 1.6 [[Hadoop兼容性](01.6.md)
 * 2.[公共部分](02.0.md)
 	- 2.1.[CLI Mini Cluster](02.1.md)
 	- 2.2.[Native Libraries](02.2.md)
